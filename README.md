@@ -35,4 +35,4 @@ This is not at all a weird sentence. Maybe he does, maybe he doesn't have a favo
 
 This tells the computer that the person may or may not have a favorite country. And if they do not, it's totally cool, we just need to handle that (more on this later in the course).
 
-Long story short, there is a lot to this concept of "Optional" values and how to actually use them in code. But if you get the difference between assuring something has a value (!) and not being positive (?( you're well on your way.
+Long story short, there is a lot to this concept of "Optional" values and how to actually use them in code. But if you get the difference between assuring something has a value (!) and not being positive (?) you're well on your way.
