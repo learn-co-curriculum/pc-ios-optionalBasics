@@ -37,4 +37,4 @@ This tells the computer that the person may or may not have a favorite country. 
 
 Long story short, there is a lot to this concept of "Optional" values and how to actually use them in code. But if you get the difference between assuring something has a value (!) and not being positive (?) you're well on your way.
 
-<a href='https://learn.co/lessons/pc-ios-optionalBasics' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-optionalBasics' title='pc-ios-optionalBasics'>pc-ios-optionalBasics</a> on Learn.co and start learning to code for free.</p>
